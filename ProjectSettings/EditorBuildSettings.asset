@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: cbfe36cfddfde964d9dfce63a355d5dd
+    path: Assets/Scenes/Menu.unity
+    guid: 333c243c8788a2c42b464e18c7ff5ea7
+  - enabled: 1
+    path: Assets/Scenes/VINSON SCENE.unity
+    guid: 224ca62cdced91043800611a4e19e690
   m_configObjects: {}
